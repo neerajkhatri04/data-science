@@ -1,0 +1,16 @@
+INFO:root:log this line of exxecution
+INFO:root:This is my print
+INFO:root:log this line of exxecution in test2
+CRITICAL:root:This is a critical condition
+INFO:root:This is my print
+INFO:root:log this line of exxecution in test2
+CRITICAL:root:This is a critical condition
+INFO:root:log this line of exxecution in test2
+CRITICAL:root:This is a critical condition
+INFO:root:log this line of exxecution
+INFO:root:This is my print
+INFO:root:log this line of exxecution in test2
+CRITICAL:root:This is a critical condition
+INFO:root:log this line of exxecution in test2
+CRITICAL:root:This is a critical condition
+CRITICAL:root:This is a critical condition

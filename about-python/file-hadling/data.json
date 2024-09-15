@@ -1,0 +1,7 @@
+{
+  "name": "sudh",
+  "age": 20,
+  "gender": "male",
+  "address": "bangalore",
+  "courses": ["maths", "science", "engineering"]
+}

@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <link rel="stylesheet" href="/flask/calculator/static/css/style.css" />
+  <body>
+    <div id="main">
+      <h1>Calculator</h1>
+      <form action="/math" method="POST">
+        <input type="number" name="num1" id="num1" />
+        <input type="number" name="num2" id="num2" />
+        <select name="operator" id="operator">
+          <option value="add">+</option>
+          <option value="sub">-</option>
+          <option value="mul">*</option>
+          <option value="div">/</option>
+          <option value="pow">^</option>
+        </select>
+        <input type="submit" value="Calculate" />
+        <p id="result"></p>
+      </form>
+    </div>
+  </body>
+</html>

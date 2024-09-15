@@ -1,0 +1,57 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14
+Season Leaders - ESPN Rating,Season Leaders - ESPN Rating,Season Leaders - ESPN Rating,Season Leaders - ESPN Rating,Season Leaders - ESPN Rating,Season Leaders - ESPN Rating,Season Leaders - ESPN Rating,Season Leaders - ESPN Rating,Season Leaders - ESPN Rating,Season Leaders - ESPN Rating,Season Leaders - ESPN Rating,Season Leaders - ESPN Rating,Season Leaders - ESPN Rating,Season Leaders - ESPN Rating,Season Leaders - ESPN Rating
+RK,PLAYER,TEAM,GP,MPG,FG%,FT%,3PM,RPG,APG,STPG,BLKPG,TOPG,PTS,ESPN
+1,"Russell Westbrook, PG",LAC,67,34.4,.426,.835,1.3,7.3,8.6,2.1,0.2,4.4,28.1,47.4
+2,"Anthony Davis, PF",LAL,68,36.1,.535,.805,0.0,10.2,2.2,1.5,2.9,1.4,24.4,45.5
+3,"James Harden, SG",LAC,81,36.8,.440,.868,2.6,5.7,7.0,1.9,0.7,4.0,27.4,45.2
+4,"DeMarcus Cousins, C",DEN,59,34.1,.467,.782,0.0,12.7,3.6,1.5,1.7,4.3,24.1,43.6
+5,"LeBron James, SF",LAL,69,36.1,.488,.710,1.7,6.0,7.4,1.6,0.7,3.9,25.3,43.4
+6,"Stephen Curry, PG",GSW,80,32.7,.487,.914,3.6,4.3,7.7,2.0,0.2,3.1,23.8,42.7
+7,"Kevin Durant, PF",PHO,27,33.8,.510,.854,2.4,6.6,4.1,0.9,0.9,2.7,25.4,41.8
+8,"Chris Paul, PG",GSW,82,34.8,.485,.900,1.7,4.6,10.2,1.9,0.2,2.3,19.1,41.0
+9,"Blake Griffin, PF",BOS,67,35.2,.502,.728,0.1,7.6,5.3,0.9,0.5,2.3,21.9,38.6
+10,"LaMarcus Aldridge, C",BKN,71,35.4,.466,.845,0.5,10.2,1.7,0.7,1.0,1.7,23.4,38.3
+RK,PLAYER,TEAM,GP,MPG,FG%,FT%,3PM,RPG,APG,STPG,BLKPG,TOPG,PTS,ESPN
+11,"Pau Gasol, PF",POR,78,34.4,.494,.803,0.2,11.8,2.7,0.3,1.9,2.0,18.5,37.2
+12,"John Wall, PG",HOU,79,35.9,.445,.785,0.8,4.6,10.0,1.7,0.6,3.8,17.6,36.6
+13,"Carmelo Anthony, PF",LAL,40,35.7,.444,.797,1.5,6.6,3.1,1.0,0.4,2.2,24.2,36.0
+14,"Nikola Vucevic, C",CHI,74,34.2,.523,.752,0.0,10.9,2.0,0.7,0.7,2.0,19.3,35.7
+15,"Damian Lillard, PG",MIL,82,35.7,.434,.864,2.4,4.6,6.2,1.2,0.3,2.7,21.0,35.3
+16,"Kyrie Irving, PG",DAL,75,36.4,.468,.863,2.1,3.2,5.2,1.5,0.3,2.5,21.7,34.5
+17,"Rudy Gay, SF",GSW,68,35.4,.455,.858,1.2,5.9,3.7,1.0,0.6,2.7,21.1,33.6
+18,"Marc Gasol, C",MEM,81,33.2,.494,.795,0.0,7.8,3.8,0.9,1.6,2.2,17.4,33.5
+,"Kobe Bryant, SF",LAL,35,34.5,.373,.813,1.5,5.7,5.6,1.3,0.2,3.7,22.3,33.5
+,"Jimmy Butler, SF",MIA,65,38.7,.462,.834,1.1,5.8,3.3,1.8,0.6,1.4,20.0,33.5
+RK,PLAYER,TEAM,GP,MPG,FG%,FT%,3PM,RPG,APG,STPG,BLKPG,TOPG,PTS,ESPN
+21,"Chris Bosh, PF",MIA,44,35.4,.460,.772,1.4,7.0,2.2,0.9,0.6,2.2,21.1,32.6
+22,"Klay Thompson, SG",GSW,77,31.9,.463,.879,3.1,3.2,2.9,1.1,0.8,1.9,21.7,32.3
+,"Kyle Lowry, PG",PHI,70,34.5,.412,.808,1.9,4.7,6.8,1.6,0.2,2.5,17.8,32.3
+24,"Dwyane Wade, G",MIA,62,31.8,.470,.768,0.5,3.5,4.8,1.2,0.3,3.4,21.5,32.1
+25,"DeAndre Jordan, C",DEN,82,34.4,.710,.397,0.0,15.0,0.7,1.0,2.2,1.3,11.5,31.6
+,"Ty Lawson, G",WAS,75,35.5,.436,.730,0.9,3.1,9.6,1.2,0.1,2.5,15.2,31.6
+,"Eric Bledsoe, SG",POR,81,34.6,.447,.800,1.1,5.2,6.1,1.6,0.6,3.4,17.0,31.6
+28,"Paul Millsap, PF",PHI,73,32.7,.476,.757,1.1,7.8,3.1,1.8,0.9,2.3,16.7,31.5
+29,"Gordon Hayward, SF",OKC,76,34.4,.445,.812,1.6,4.9,4.1,1.4,0.4,2.7,19.3,31.1
+,"Tyreke Evans, G",IND,79,34.1,.447,.694,0.9,5.3,6.6,1.3,0.5,3.1,16.6,31.1
+RK,PLAYER,TEAM,GP,MPG,FG%,FT%,3PM,RPG,APG,STPG,BLKPG,TOPG,PTS,ESPN
+31,"Kawhi Leonard, SF",LAC,64,31.8,.479,.802,1.0,7.2,2.5,2.3,0.8,1.5,16.5,31.0
+32,"Al Horford, C",BOS,76,30.5,.538,.759,0.1,7.2,3.2,0.9,1.3,1.3,15.2,30.8
+,"Tim Duncan, C",SAS,77,28.9,.512,.740,0.0,9.1,3.0,0.8,2.0,1.7,13.9,30.8
+34,"Kevin Love, PF",MIA,75,33.8,.434,.804,1.9,9.7,2.2,0.7,0.5,1.6,16.4,30.4
+,"Zach Randolph, F",DAL,71,32.5,.487,.765,0.1,10.5,2.2,1.0,0.2,2.2,16.1,30.4
+,"Greg Monroe, C",MIN,69,31.0,.496,.750,0.0,10.2,2.1,1.1,0.5,2.2,15.9,30.4
+,"Andre Drummond, C",CHI,82,30.5,.514,.389,0.0,13.5,0.7,0.9,1.9,1.5,13.8,30.4
+38,"Al Jefferson, C",IND,65,30.6,.481,.655,0.0,8.4,1.7,0.7,1.3,1.0,16.6,30.1
+39,"Jeff Teague, PG",MIL,73,30.5,.460,.862,1.0,2.5,7.0,1.7,0.4,2.8,15.9,29.9
+40,"Derrick Favors, F",CHI,74,30.8,.525,.669,0.0,8.2,1.5,0.8,1.7,1.6,16.0,29.7
+RK,PLAYER,TEAM,GP,MPG,FG%,FT%,3PM,RPG,APG,STPG,BLKPG,TOPG,PTS,ESPN
+,"Dwight Howard, C",LAL,41,29.8,.593,.528,0.0,10.5,1.2,0.7,1.3,2.8,15.8,29.7
+42,"Brook Lopez, C",MIL,72,29.2,.513,.814,0.0,7.4,0.7,0.6,1.8,1.4,17.2,29.5
+43,"Jrue Holiday, PG",BOS,40,32.6,.446,.855,1.3,3.4,6.9,1.6,0.6,2.3,14.8,29.4
+,"George Hill, PG",IND,43,29.5,.477,.790,1.6,4.2,5.1,1.0,0.3,1.6,16.1,29.4
+45,"DeMar DeRozan, SF",CHI,60,35.0,.413,.832,0.4,4.6,3.5,1.2,0.2,2.3,20.1,29.3
+46,"Darren Collison, PG",LAL,45,34.8,.473,.788,1.3,3.2,5.6,1.5,0.3,2.5,16.1,28.7
+47,"Brandon Knight, PG",DAL,63,32.3,.422,.874,2.0,3.9,5.2,1.4,0.2,3.0,17.0,28.6
+48,"Victor Oladipo, SG",MEM,72,35.7,.436,.819,1.2,4.2,4.1,1.7,0.3,2.8,17.9,28.5
+49,"Kemba Walker, PG",DAL,62,34.2,.385,.827,1.4,3.5,5.1,1.4,0.5,1.6,17.3,28.4
+50,"Monta Ellis, SG",IND,80,33.7,.445,.752,1.0,2.4,4.1,1.9,0.3,2.5,18.9,28.1
